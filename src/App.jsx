@@ -5,7 +5,7 @@ import About from './pages/About'
 import Contacts from './pages/Contacts'
 
 import './App.css'
-import DefaultLayout from './components/DefaultLayout'
+import DefaultLayout from './pages/DefaultLayout'
 
 function App() {
 
